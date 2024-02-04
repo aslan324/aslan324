@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Aslan Çelik
+#### Software
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<!--
-**aslan324/aslan324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: ASP.NETCORE / MVC / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Blog Site 
+- 🌱 I’m currently learning MVC & API 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aslan324)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aslan324)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslan324)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aslan324/contributions?format=svg&private=false)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aslan324)  
+
